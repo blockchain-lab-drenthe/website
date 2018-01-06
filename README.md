@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Blockchain Lab Drenthe
 
-You can use the [editor on GitHub](https://github.com/blockchain-lab-drenthe/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Blockchain Lab Drenthe foundation aims to investigate blockchain technology for use in the province of Drenthe in the Netherlands.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Repositories
+In this repository we share the content of our website, electronic learning environment and wiki. In addition, we will make public in other repositories the software products that arise from research questions that have been put to the lab. All the repositories are free to use.
 
-### Markdown
+## Meetups
+We regularly share our findings with people from the region in [meetups](https://www.meetup.com/nl-NL/Blockchain-Drenthe-Meetup/). The meetings are free and accessible to everyone. A meetup starts with an update on the latest blockchain developments and then goes more deeply into a certain topic. Specific prior knowledge is not required. Interested parties who would like to dive deeper into the matter are invited to become participants in the lab.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Network
+The Blockchain Lab Drenthe foundation strives to establish an extended network of people who are interested in Blockchain technology and want to exchange ideas about this. People who want to participate in research projects can do so within the lab.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blockchain-lab-drenthe/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Training
+We offer training and guidance to interns provided that in return they are prepared to contribute to knowledge and products through the lab. The website, electronic learning environment and wiki is used to safeguard all these learning experiences.
